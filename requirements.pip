@@ -1,0 +1,4 @@
+Django==1.4
+-e git+https://github.com/toastdriven/django-haystack.git@bf6f050d2354418f3eb4fcc699840b00f94123a8#egg=django_haystack-2.0.0_beta-py2.6-dev
+pysolr==2.1.0-beta
+wsgiref==0.1.2
